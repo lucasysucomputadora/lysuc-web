@@ -1,0 +1,15 @@
+.cabeza {
+ display:flex;
+ flex-wrap: wrap;
+ text-align: justify;
+ position:sticky;
+ top:0;
+ background-color: #222222;
+ color:#ffffff;
+ z-index: 1;
+}
+.linkos{
+ color:#777777;
+ font-family: 'Press Start 2P', cursive;
+ font-size: 0.8rem;
+}

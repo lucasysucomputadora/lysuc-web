@@ -1,0 +1,11 @@
+.side{
+ display:flex;
+ flex: 1;
+ padding: 5px ;
+ background-color: #545454;
+ position:sticky;
+ top:86px;
+ z-index: 1;
+
+ /* width:100px; */
+}

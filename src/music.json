@@ -1,0 +1,97 @@
+{
+ "responseHeader": {
+  "status": 0,
+  "QTime": 71,
+  "params": {
+   "query": "creator:\"lucas y su computadora\"",
+   "qin": "creator:\"lucas y su computadora\"",
+   "fields": "identifier",
+   "wt": "json",
+   "sort": "date asc",
+   "rows": "50",
+   "json.wrf": "callback",
+   "start": 0
+  }
+ },
+ "response": {
+  "numFound": 25,
+  "start": 0,
+  "docs": [
+   {
+    "identifier": "siguetuestrella"
+   },
+   {
+    "identifier": "eternomisterio"
+   },
+   {
+    "identifier": "paradojas"
+   },
+   {
+    "identifier": "loopingmadness"
+   },
+   {
+    "identifier": "descanzar"
+   },
+   {
+    "identifier": "explorando"
+   },
+   {
+    "identifier": "expresarmegusta"
+   },
+   {
+    "identifier": "hoysenoisea"
+   },
+   {
+    "identifier": "lavidasenosva"
+   },
+   {
+    "identifier": "noisrebirth"
+   },
+   {
+    "identifier": "superitmos"
+   },
+   {
+    "identifier": "tormentaespiritual"
+   },
+   {
+    "identifier": "almafuerte"
+   },
+   {
+    "identifier": "jujuy1"
+   },
+   {
+    "identifier": "quemandorecuerdos"
+   },
+   {
+    "identifier": "unabasura"
+   },
+   {
+    "identifier": "tidalintroduction"
+   },
+   {
+    "identifier": "microhead"
+   },
+   {
+    "identifier": "psyconoisedelmasalla"
+   },
+   {
+    "identifier": "vibraresonante"
+   },
+   {
+    "identifier": "seimprime"
+   },
+   {
+    "identifier": "coquedama"
+   },
+   {
+    "identifier": "climatizando"
+   },
+   {
+    "identifier": "alguito"
+   },
+   {
+    "identifier": "7.Reloncion"
+   }
+  ]
+ }
+}
