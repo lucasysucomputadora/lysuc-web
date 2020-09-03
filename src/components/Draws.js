@@ -28,9 +28,9 @@ const arr = data.filter(a => a.collection[0] === "opensource_image")
  return (
   <div>
    <h1>DRAWS 図面</h1>
-   <Img id={draw} onClick={() => console.log(draw)}/>
+   {/* <Img id={draw} onClick={() => console.log(draw)}/> */}
    <div >
-   {arr.map(a => <DrawsElement key={a.identifier} id={a.identifier} ids={(draw) => setDraw(draw)}/>)}
+   {arr.map(a => <DrawsElement key={a.identifier} id={a.identifier} />)}
    
    </div>
   </div>

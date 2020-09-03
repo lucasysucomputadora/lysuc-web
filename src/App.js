@@ -28,12 +28,12 @@ function App() {
 
         <Route>
           <Route exact path="/" component={Home} />
-          <Route exact path="/music" render={(props) => <Music 
+          <Route exact path="/music" render={(props) => <Music
             {...props}
             ida={(ids) => setIds(ids)}
             lis={(list) => setList(list)}
             src={(song) => setSongs(song)}
-             />} />
+          />} />
           <Route exact path="/draws" component={Draws} />
           <Route path="/videos" component={Videos} />
           {/* <Route path="/player:id" component={Player}/> */}

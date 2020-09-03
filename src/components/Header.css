@@ -6,7 +6,7 @@
  top:0;
  background-color: #222222;
  color:#ffffff;
- z-index: 1;
+ /* z-index: 1; */
 }
 .linkos{
  color:#777777;
