@@ -26,7 +26,7 @@ function AudioPlayer({ song, list, ids }) {
  return (
   <div>
     <div className="tit">{arr[track]}</div>
-    <AudioPlayers layout='horizontal-reverse'showSkipControls showJumpControls={false} onClickPrevious={() => setTrack((track -1)% arr.length)} onClickNext={()=> setTrack((track + 1)% arr.length)} src={arr[track]}/>
+    <AudioPlayers layout='horizontal-reverse'showSkipControls onEnded={() => setTrack((track + 1)% arr.length)  }showJumpControls={false} onClickPrevious={() => setTrack((track -1)% arr.length)} onClickNext={()=> setTrack((track + 1)% arr.length)} src={arr[track]}/>
   </div>
  )
 }
