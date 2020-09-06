@@ -1,6 +1,6 @@
 import React,{useState} from 'react';
-import { Switch, Route, Link } from "react-router-dom";
-import Player from "./VideoPlayer";
+// import { Switch, Route, Link } from "react-router-dom";
+
 
 
 function VideoElement({ id, title, img}) {
@@ -8,14 +8,12 @@ function VideoElement({ id, title, img}) {
 
      return (
           <div className="card">
-               {/* {console.log(id)} */}
                <div className="titulo">
                     {title}
                </div>
                <div className={"formating"} onClick={(id) => setIds(id)}>
                    {ids === ""? <img src={img} alt={id} />: <iframe className="fromating2" src={`https://www.youtube.com/embed/${id}`} frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe> } 
                </div>
-               {/* <iframe width="280" height="160" src={`https://www.youtube.com/embed/${id}`} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
           </div>
      )
 }

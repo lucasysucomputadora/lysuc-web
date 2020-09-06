@@ -1,20 +1,9 @@
 import React, { useState, useEffect } from 'react'
-// import music from "../music.json";
 import MusicElement from "./MusicElement"
-// import Player from "./Player"
-// import Fechin from "./Fechin"
-// import ReactAudioPlayer from 'react-audio-player';
-import AudioPlayer from "./AudioPlayer"
-//...
-
 
 
 function Music({ida,lis,src}) {
   const [data, setData] = useState([]);
-  const [songs, setSongs] = useState("");
-  const [list, setList] = useState([]);
-  const [ids, setIds] = useState()
-  // const [ids, setIds] = useState();
 
   useEffect(() => {
     async function fetchData() {
@@ -32,13 +21,6 @@ function Music({ida,lis,src}) {
 
     <h2 style={{ paddingLeft: "20px" }}>MUSIC 音楽</h2>
  
-    <div className="player">
-      <div >
-        {/* <h3>{songs.substr(0, songs.length - 5)}</h3> */}
-        {/* <img width="100%" style={{border:"solid"}} height="50px" src={`https://archive.org/download/${songs.substr(0, songs.length - 5)}.png`}/> */}
-      </div>
-    </div>
-
     <div className="music">
       {arr.map(a => <MusicElement
         key={a.identifier}

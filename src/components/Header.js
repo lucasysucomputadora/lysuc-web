@@ -8,7 +8,7 @@ function Header() {
   <div className="cabeza">
 
 
-   <Link className="linkos " to="/">
+   <Link className="linkos " to="/lysuc-web">
     <h1>Lucas y su<br/> computadora</h1>
     
     </Link>
