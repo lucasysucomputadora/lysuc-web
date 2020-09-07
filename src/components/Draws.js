@@ -18,15 +18,15 @@ function Draws() {
     , [])
 
   return (
-    <div>
+    <div style={{zIndex:"0"}}>
       <h1>DRAWS 図面</h1>
   
+
       <div className="draws__buttons">
       <button className="btn" onClick={() => setCounter(counter > 0 ? (counter -1): (data.length - 1))}> - </button>
-      <h1>{counter + 1}</h1>
       <button className="btn" onClick={() => setCounter((counter + 1)% data.length)}> + </button>
+     {"..."} <h2 >   {data ? data[counter].identifier: ""}   </h2>
       </div>
-
       <div >
 
         {data ? <DrawsElement key={data[counter].identifier} id={data[counter].identifier} /> : <h1>loading...</h1>}

@@ -17,7 +17,6 @@ export default function DrawsElement({ id, ids }) {
 
   return (
     <div>
-      <h2>{id}</h2>
       <div className="img">
 
         {data.map(a => <DrawUnit key={a.md5} id={id} name={a.name} original={a.original} />)}
