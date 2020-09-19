@@ -22,11 +22,14 @@ function MusicElement({ id, song, list, ids }) {
   return (
     <div onClick={() => list(arr)}>
       <div onClick={() => ids(id)}>
-        <div className="music__title" onClick={() => song(0)}>
+        <div className="music__title"
+          onClick={() => song(0)}>
           <h3 >{id} - <span>{date}</span></h3>
         </div>
         <div className="music__element">
-          {arr.map(a => <p className="music__unit" key={a.name} onClick={() => song(arr.indexOf(a))} >{a.name.substr(0, a.name.length - 5)}</p>)}
+          {arr.map(a => <p className="music__unit"
+            key={a.name}
+            onClick={() => song(arr.indexOf(a))} >{a.name.substr(0, a.name.length - 5)}</p>)}
         </div>
       </div>
     </div>

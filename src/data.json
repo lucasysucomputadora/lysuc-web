@@ -1,3 +1,5 @@
+
+
 {
  "kind": "youtube#searchListResponse",
  "etag": "H3YzkzQ2LI6GPvkzyieaqi_PQys",
@@ -450,40 +452,7 @@
        "publishTime": "2016-05-21T05:39:18Z"
      }
    },
-   {
-     "kind": "youtube#searchResult",
-     "etag": "ZKKeeTJ1aBx1G0XszJjm997hmnE",
-     "id": {
-       "kind": "youtube#video",
-       "videoId": "ndNnvxVqoN0"
-     },
-     "snippet": {
-       "publishedAt": "2009-10-14T08:01:06Z",
-       "channelId": "UCW8lccrAIZTuob48xn550jg",
-       "title": "transimicion de emergencia",
-       "description": "remolino de energia intensa de corta duracion.",
-       "thumbnails": {
-         "default": {
-           "url": "https://i.ytimg.com/vi/ndNnvxVqoN0/default.jpg",
-           "width": 120,
-           "height": 90
-         },
-         "medium": {
-           "url": "https://i.ytimg.com/vi/ndNnvxVqoN0/mqdefault.jpg",
-           "width": 320,
-           "height": 180
-         },
-         "high": {
-           "url": "https://i.ytimg.com/vi/ndNnvxVqoN0/hqdefault.jpg",
-           "width": 480,
-           "height": 360
-         }
-       },
-       "channelTitle": "taslu ki",
-       "liveBroadcastContent": "none",
-       "publishTime": "2009-10-14T08:01:06Z"
-     }
-   },
+ 
    {
      "kind": "youtube#searchResult",
      "etag": "z4e7O16CmQjYH3xPnfYlOdhEZsc",
@@ -1130,40 +1099,7 @@
        "publishTime": "2012-08-20T04:50:07Z"
      }
    },
-   {
-     "kind": "youtube#searchResult",
-     "etag": "iT8xQrQ0pJbEDMjRsdHcxxcWGlo",
-     "id": {
-       "kind": "youtube#video",
-       "videoId": "CDwIi5yrFa4"
-     },
-     "snippet": {
-       "publishedAt": "2016-03-31T16:31:31Z",
-       "channelId": "UCW8lccrAIZTuob48xn550jg",
-       "title": "hidroponia - plasma",
-       "description": "visuales: meli musica: lysuc grabacion de ensayo exploracion audio visual.",
-       "thumbnails": {
-         "default": {
-           "url": "https://i.ytimg.com/vi/CDwIi5yrFa4/default.jpg",
-           "width": 120,
-           "height": 90
-         },
-         "medium": {
-           "url": "https://i.ytimg.com/vi/CDwIi5yrFa4/mqdefault.jpg",
-           "width": 320,
-           "height": 180
-         },
-         "high": {
-           "url": "https://i.ytimg.com/vi/CDwIi5yrFa4/hqdefault.jpg",
-           "width": 480,
-           "height": 360
-         }
-       },
-       "channelTitle": "taslu ki",
-       "liveBroadcastContent": "none",
-       "publishTime": "2016-03-31T16:31:31Z"
-     }
-   },
+  
    {
      "kind": "youtube#searchResult",
      "etag": "WHllqYReKGHZSSnWW7G2CrMdews",
@@ -1232,40 +1168,7 @@
        "publishTime": "2012-09-07T02:05:43Z"
      }
    },
-   {
-     "kind": "youtube#searchResult",
-     "etag": "wvr31CybVWxmyzg4TyAEB3vWJ9c",
-     "id": {
-       "kind": "youtube#video",
-       "videoId": "KM9wvyeMTSQ"
-     },
-     "snippet": {
-       "publishedAt": "2016-05-09T06:35:41Z",
-       "channelId": "UCW8lccrAIZTuob48xn550jg",
-       "title": "tidalcycles live coding - piola_1 - lysuc",
-       "description": "part 1 of 4.",
-       "thumbnails": {
-         "default": {
-           "url": "https://i.ytimg.com/vi/KM9wvyeMTSQ/default.jpg",
-           "width": 120,
-           "height": 90
-         },
-         "medium": {
-           "url": "https://i.ytimg.com/vi/KM9wvyeMTSQ/mqdefault.jpg",
-           "width": 320,
-           "height": 180
-         },
-         "high": {
-           "url": "https://i.ytimg.com/vi/KM9wvyeMTSQ/hqdefault.jpg",
-           "width": 480,
-           "height": 360
-         }
-       },
-       "channelTitle": "taslu ki",
-       "liveBroadcastContent": "none",
-       "publishTime": "2016-05-09T06:35:41Z"
-     }
-   },
+  
    {
      "kind": "youtube#searchResult",
      "etag": "_i_tPZPSSvb2SWpA6nd9-1GZRCk",
@@ -1300,40 +1203,7 @@
        "publishTime": "2016-05-09T03:19:51Z"
      }
    },
-   {
-     "kind": "youtube#searchResult",
-     "etag": "rCWMSZO99G1aj7FeHMJisKomnAo",
-     "id": {
-       "kind": "youtube#video",
-       "videoId": "ZFZ__m9qcdI"
-     },
-     "snippet": {
-       "publishedAt": "2017-08-13T08:44:13Z",
-       "channelId": "UCW8lccrAIZTuob48xn550jg",
-       "title": "lucas y su computadora - TODOMAL",
-       "description": "grabado en mayo de 2008 Temas: 00:00 todo bad 02:44 todo mal 2 06:44 todo mal 3 11:40 todo mal 4 15:35 todo mal 6 23:16 todo mal 7 28:08 todo mal 8 ...",
-       "thumbnails": {
-         "default": {
-           "url": "https://i.ytimg.com/vi/ZFZ__m9qcdI/default.jpg",
-           "width": 120,
-           "height": 90
-         },
-         "medium": {
-           "url": "https://i.ytimg.com/vi/ZFZ__m9qcdI/mqdefault.jpg",
-           "width": 320,
-           "height": 180
-         },
-         "high": {
-           "url": "https://i.ytimg.com/vi/ZFZ__m9qcdI/hqdefault.jpg",
-           "width": 480,
-           "height": 360
-         }
-       },
-       "channelTitle": "taslu ki",
-       "liveBroadcastContent": "none",
-       "publishTime": "2017-08-13T08:44:13Z"
-     }
-   },
+   
    {
      "kind": "youtube#searchResult",
      "etag": "614vWQQzOaLtnMyQ1MAZ0vXNj64",
@@ -1504,74 +1374,7 @@
        "publishTime": "2017-03-27T23:37:23Z"
      }
    },
-   {
-     "kind": "youtube#searchResult",
-     "etag": "RuyBKWzv7x0-2yeXhQZaeNogoEY",
-     "id": {
-       "kind": "youtube#video",
-       "videoId": "RcBoc_4GNRs"
-     },
-     "snippet": {
-       "publishedAt": "2011-10-21T02:40:13Z",
-       "channelId": "UCW8lccrAIZTuob48xn550jg",
-       "title": "Todo es naturalezA",
-       "description": "",
-       "thumbnails": {
-         "default": {
-           "url": "https://i.ytimg.com/vi/RcBoc_4GNRs/default.jpg",
-           "width": 120,
-           "height": 90
-         },
-         "medium": {
-           "url": "https://i.ytimg.com/vi/RcBoc_4GNRs/mqdefault.jpg",
-           "width": 320,
-           "height": 180
-         },
-         "high": {
-           "url": "https://i.ytimg.com/vi/RcBoc_4GNRs/hqdefault.jpg",
-           "width": 480,
-           "height": 360
-         }
-       },
-       "channelTitle": "taslu ki",
-       "liveBroadcastContent": "none",
-       "publishTime": "2011-10-21T02:40:13Z"
-     }
-   },
-   {
-     "kind": "youtube#searchResult",
-     "etag": "_X2AJzc7P4OqB4jPGXlfby2u4zY",
-     "id": {
-       "kind": "youtube#video",
-       "videoId": "NbBrnXCS3Vw"
-     },
-     "snippet": {
-       "publishedAt": "2016-04-01T01:36:00Z",
-       "channelId": "UCW8lccrAIZTuob48xn550jg",
-       "title": "hidroponia - vision",
-       "description": "exploracion audiovisual, ensayo.",
-       "thumbnails": {
-         "default": {
-           "url": "https://i.ytimg.com/vi/NbBrnXCS3Vw/default.jpg",
-           "width": 120,
-           "height": 90
-         },
-         "medium": {
-           "url": "https://i.ytimg.com/vi/NbBrnXCS3Vw/mqdefault.jpg",
-           "width": 320,
-           "height": 180
-         },
-         "high": {
-           "url": "https://i.ytimg.com/vi/NbBrnXCS3Vw/hqdefault.jpg",
-           "width": 480,
-           "height": 360
-         }
-       },
-       "channelTitle": "taslu ki",
-       "liveBroadcastContent": "none",
-       "publishTime": "2016-04-01T01:36:00Z"
-     }
-   },
+   
    {
      "kind": "youtube#searchResult",
      "etag": "lL_Cn1WyuWmQ2I0NXMGLoJLAEQs",
@@ -1674,39 +1477,1405 @@
        "publishTime": "2012-12-27T23:25:18Z"
      }
    },
-   {
-     "kind": "youtube#searchResult",
-     "etag": "xHHpHeCUBbDZjCSaQmtm5Nn5ZgU",
-     "id": {
-       "kind": "youtube#video",
-       "videoId": "EN4kCtc6dUc"
-     },
-     "snippet": {
-       "publishedAt": "2017-08-13T08:44:13Z",
-       "channelId": "UCW8lccrAIZTuob48xn550jg",
-       "title": "lucas y su computadora - agencia",
-       "description": "grabado en 2010 temas: 00:00 agencia de viajes 10:43 asia la gloria 20:53 chupacabras 24:49 muy alla 36:31 nos vamos 42:48 olvidar 45:16 soy feliz.",
-       "thumbnails": {
-         "default": {
-           "url": "https://i.ytimg.com/vi/EN4kCtc6dUc/default.jpg",
-           "width": 120,
-           "height": 90
-         },
-         "medium": {
-           "url": "https://i.ytimg.com/vi/EN4kCtc6dUc/mqdefault.jpg",
-           "width": 320,
-           "height": 180
-         },
-         "high": {
-           "url": "https://i.ytimg.com/vi/EN4kCtc6dUc/hqdefault.jpg",
-           "width": 480,
-           "height": 360
-         }
-       },
-       "channelTitle": "taslu ki",
-       "liveBroadcastContent": "none",
-       "publishTime": "2017-08-13T08:44:13Z"
-     }
-   }
- ]
+  
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dfsxwhRUkvgHid05hJREdDxYgio",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NHfpJZAC5ew"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-25T19:54:55Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - funtion coding algorithm flash - lysuc",
+        "description": "super smashing audio algorithim riddim twerking.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NHfpJZAC5ew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NHfpJZAC5ew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NHfpJZAC5ew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-25T19:54:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DJ9Z_5AAVnOnDF2h5WnOzujO5PU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BFe_e7YsIbo"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-07T06:25:57Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "El Club del Ruido 2/6",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BFe_e7YsIbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BFe_e7YsIbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BFe_e7YsIbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-11-07T06:25:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z5dkHYHsyj5qIpz7oalTTSxAXWY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aycASoTSCBM"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-05T05:02:14Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - entertE~*ł~",
+        "description": "canalizando la energia del momento.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aycASoTSCBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aycASoTSCBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aycASoTSCBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-05T05:02:14Z"
+      }
+    },
+    
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EAaiGQXgvGo1n7O3jMzvA6r9mx0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FQVzfq1_dAo"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-27T00:27:29Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "pure data - qwertydance-lysuc",
+        "description": "pure data isomorphic keyboard with blofeld synth.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FQVzfq1_dAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FQVzfq1_dAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQVzfq1_dAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-27T00:27:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u5fSPBTJ7b_l2IUEskMyR6HFLHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g3D75yII-9c"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-03T17:20:20Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "Fre-Q-secuencia",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g3D75yII-9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g3D75yII-9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g3D75yII-9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-11-03T17:20:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2Sm-Km4b01HrYnLz_T20AMRHXyc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FaztfjiYooI"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-27T21:52:24Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding- blofelsd",
+        "description": "tidal-midi-blofeld.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FaztfjiYooI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FaztfjiYooI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FaztfjiYooI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-27T21:52:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jPie3TcN4TECADEGlZ0pI9er6jk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VUEJ91dIKng"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-01T19:55:50Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - blif",
+        "description": "blofeld tidal midi exploration.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VUEJ91dIKng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VUEJ91dIKng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VUEJ91dIKng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-01T19:55:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IDRLTRYZWcWv9pWuzxvMrwt2ae8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Icd6KfN6ghQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-23T02:12:35Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - cafaz-z** lysuc **",
+        "description": "doblefaz.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Icd6KfN6ghQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Icd6KfN6ghQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Icd6KfN6ghQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-23T02:12:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_UgQ86r9L5bwYCbYryLQwuWM9oA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bit8Jfj64hI"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-03T00:39:24Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - nill - lysuc",
+        "description": "agudo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bit8Jfj64hI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bit8Jfj64hI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bit8Jfj64hI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-03T00:39:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5Ce0WdhybeQdBEselO1IT2LZ9ao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WQmnypJ7s4E"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-06T00:38:36Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - ls - lysuc",
+        "description": "live coding bro.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WQmnypJ7s4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WQmnypJ7s4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WQmnypJ7s4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-06T00:38:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GZE-h5MfDFHZZ9edVGlvTQfDfZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lgrszV-inUw"
+      },
+      "snippet": {
+        "publishedAt": "2011-12-30T04:30:51Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "El Club del Ruido 1/6",
+        "description": "nos juntabamos los Jueves ahisito nomas en bs as.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lgrszV-inUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lgrszV-inUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lgrszV-inUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-12-30T04:30:51Z"
+      }
+    },
+   
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CiP5p5aSTdFgs0jtI1wrf_bcDFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S5vTHvSzPDE"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-08T05:47:34Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - partition - lysuc",
+        "description": "nocturno.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S5vTHvSzPDE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S5vTHvSzPDE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S5vTHvSzPDE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-08T05:47:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_Jp0RVUVhVCJYo-rJpyJ7XODw7Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TapkKCSCqEI"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-03T00:28:20Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - niewi - lysuc",
+        "description": "trank.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TapkKCSCqEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TapkKCSCqEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TapkKCSCqEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-03T00:28:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9AUMXfj7ZD4ewU3GEL3a6tIifhs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UZH4vZlqc88"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-28T00:49:36Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - maz0 - lysuc",
+        "description": "truco.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UZH4vZlqc88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UZH4vZlqc88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UZH4vZlqc88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-28T00:49:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rmiqs9VaHcy3BvXe57d4yc9AZto",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s9Vi-eqQtHg"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-12T03:13:41Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "gimp live drawing - mk - lysuc",
+        "description": "lyscu from 2005 in fruity loops composition with live gimp drawing lucas y su computadora en 2005 grabado con fruity loops y dibujo en vivo en gimp.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s9Vi-eqQtHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s9Vi-eqQtHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s9Vi-eqQtHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-12T03:13:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nKu6Ds0WNXQ7EXm2xikURTqiswg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rNeIXMoVOYc"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-05T20:45:49Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - sers lysuc",
+        "description": "felicidad.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rNeIXMoVOYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rNeIXMoVOYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rNeIXMoVOYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-05T20:45:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "31Jl9YTMfpybjFhGB-KCeaiHVh8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GsRddaarfB4"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-27T19:56:07Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - ma - lysuc",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GsRddaarfB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GsRddaarfB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GsRddaarfB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-27T19:56:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E1Kh2pxcyFZDtNOXIfaKlzWybKM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TiJBDtUCUUg"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-27T21:52:29Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - live on etatrino",
+        "description": "live presentation on \"el Teatrino\" Salta Argentina 2017.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TiJBDtUCUUg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TiJBDtUCUUg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TiJBDtUCUUg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-27T21:52:29Z"
+      }
+    },
+   
+    
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LlzLPSLSvmXjNfu3UJUxrkn2INE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OMFo6-_Wpes"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-06T07:47:37Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - pst -lysuc",
+        "description": "live coding night.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OMFo6-_Wpes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OMFo6-_Wpes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OMFo6-_Wpes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-06T07:47:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mJ8g_1pUsYxIWwF05frJvij82Ds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KEWToP0nG9U"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-03T06:35:32Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - plani-sy-e - lysuc",
+        "description": "la gran montaña.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KEWToP0nG9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KEWToP0nG9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KEWToP0nG9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-03T06:35:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qLSRQCFiyiOsjtgP0ClhR1PBRxo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n-0CcTawmbk"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-27T23:37:26Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - sadlegaia2",
+        "description": "remix from psx game \"legend of legaia\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n-0CcTawmbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n-0CcTawmbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n-0CcTawmbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-27T23:37:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cSRiDa6CbjIvtoFKCYJPpTrEmlc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cjZw02y09f0"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-08T05:40:55Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - potion - lysuc",
+        "description": "flaing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cjZw02y09f0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cjZw02y09f0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cjZw02y09f0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-08T05:40:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j-yjhXUmyTI7CfoX4yfw44X61vs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z0iCN955qkw"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-03T06:47:14Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - m4 - lysuc **",
+        "description": "playing with numbers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z0iCN955qkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z0iCN955qkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z0iCN955qkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-03T06:47:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8LHnZcD05kR6GntoeTAyzr37D_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P06F4XJk2Sg"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-27T20:45:00Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - crazyNums",
+        "description": "numbers exploration.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P06F4XJk2Sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P06F4XJk2Sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P06F4XJk2Sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-27T20:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5UtFNbJ-gyoDleJLo5VS5EPIT7k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E0_4OIJlCrM"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-08T19:00:46Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - mgk - lysuc",
+        "description": "sun flash.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E0_4OIJlCrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E0_4OIJlCrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E0_4OIJlCrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-08T19:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8tCl4buFfSpDBQEMkIh_YgQJTfc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MsfDAbbk6cw"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-27T20:44:56Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - arrebatandot",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MsfDAbbk6cw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MsfDAbbk6cw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MsfDAbbk6cw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-27T20:44:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lr9lfi3lADzpPBx6ctY-aePSof4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i7v3jBUdKSQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-27T01:07:47Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - flashandopiola - lysuc",
+        "description": "bien piola.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i7v3jBUdKSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i7v3jBUdKSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i7v3jBUdKSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-27T01:07:47Z"
+      }
+    },
+   
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HIQ_1xFOhSky86XCZjLeu5ww35g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sKGwEFeKWBE"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-08T19:07:35Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - cty - lysuc",
+        "description": "http://www.contralogic.com/256-nes-samples/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sKGwEFeKWBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sKGwEFeKWBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sKGwEFeKWBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-08T19:07:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y-D71rTTektjivQu_MOGQUPWmGE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "16x4b5heS6U"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-27T20:44:54Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - lifivomd",
+        "description": "explorando sonidos en tidalcycles.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/16x4b5heS6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/16x4b5heS6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/16x4b5heS6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-27T20:44:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "228StKfpCskq6eoMpLAMaKj2dEE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PSonmB5WI_M"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-09T06:35:41Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - algo_liviano - lysuc",
+        "description": "abstract message.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PSonmB5WI_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PSonmB5WI_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PSonmB5WI_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-09T06:35:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BfeQhAZjIAHdpPQDMuFdG9cn42Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JOT0rJ6WVzo"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-27T19:57:20Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - pstl - lysuc",
+        "description": "live coding force.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JOT0rJ6WVzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JOT0rJ6WVzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JOT0rJ6WVzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-27T19:57:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k6gfH5ASkKLDJrhW-TdVuvuTB44",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WR3sNV-DbhQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-27T01:27:45Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - testing things",
+        "description": "testing 1 2 3.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WR3sNV-DbhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WR3sNV-DbhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WR3sNV-DbhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-27T01:27:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YRjp4BCinK66ZXb6_tdfwhbxdwk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0nKprVN0yNY"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-18T02:49:36Z",
+        "channelId": "UCW8lccrAIZTuob48xn550jg",
+        "title": "tidalcycles live coding - sp.cast://",
+        "description": "another one.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0nKprVN0yNY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0nKprVN0yNY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0nKprVN0yNY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "taslu ki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-18T02:49:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7CCg6XtejpvRXpqf3L4Y5D8uT2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l_1tx081wiw"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-12T16:26:18Z",
+        "channelId": "UC90SybrBinHmfJaOsVae03Q",
+        "title": "LUCAS Y SU COMPUTADORA Tripie liveset",
+        "description": "0001 1000 0010 1010 1110 1000 0010 0010 1001 0011 1111 0000 Dirección: Pablo Garzón Sonido: Emiliano Alauie Producción: PACHA Cañizares.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l_1tx081wiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l_1tx081wiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l_1tx081wiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tripié Contenidos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-12T16:26:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iGW_InDgc3qaYsLpu4ZJ-eHEcAM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UYATi4bzd7I"
+      },
+      "snippet": {
+        "publishedAt": "2011-07-13T10:52:31Z",
+        "channelId": "UCIzKGHcZ4VXKSDLcUIVZjLQ",
+        "title": "Lucas y su computadora - Como viene la mano aca",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UYATi4bzd7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UYATi4bzd7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UYATi4bzd7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "bigoteada",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-07-13T10:52:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AeBPrY_7PNPMhYJPVI3cOWwSj0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3WxhgZyO6Cc"
+      },
+      "snippet": {
+        "publishedAt": "2015-04-24T20:41:23Z",
+        "channelId": "UCvONQT5tV3fEngfHMaecseg",
+        "title": "Lucas y su Computadora - live coding",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3WxhgZyO6Cc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3WxhgZyO6Cc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3WxhgZyO6Cc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Derrumbe TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-04-24T20:41:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hhD-z55R5L1y6RFulOL0j12OZps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iYA-IG14mYw"
+      },
+      "snippet": {
+        "publishedAt": "2011-02-07T18:50:42Z",
+        "channelId": "UCMFe-3v8jtXVNIfbnrLcqqw",
+        "title": "09 &quot;Algo&quot; - Lucas y su computadora (La Caldera del Rock &#39;11)",
+        "description": "Día 2 de La Caldera del Rock '11: El momento menos \"comprensible\" de la jornada por lejos. En el escenario Pajarito y cía. Algunos podrían decir que ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iYA-IG14mYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iYA-IG14mYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iYA-IG14mYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Claudio Guantay Lagoria",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-02-07T18:50:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pjNeMmEUKEB4tB1tQ8oOKnV39uc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vEiG0FK0H6Q"
+      },
+      "snippet": {
+        "publishedAt": "2009-06-07T04:34:33Z",
+        "channelId": "UC5gBmCYnn8oaKAnbAfdPGCA",
+        "title": "Lucas y su Computadora junto a Cine Shampoo, dentro de un Vortex",
+        "description": "Una licuadora repleta de energia onirica y un cardumen de vibraciones aleatorias rompieron las puertas dimensionales una vez mas.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vEiG0FK0H6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vEiG0FK0H6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vEiG0FK0H6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "capostodos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-06-07T04:34:33Z"
+      }
+    },
+    {
+      "kind": "vimeo",
+      "etag": "pjNeMmEUKEB4tB1tQ8oOKnV39uc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "53339822"
+      },
+      "snippet": {
+        "publishedAt": "2009-06-07T04:34:33Z",
+        "channelId": "UC5gBmCYnn8oaKAnbAfdPGCA",
+        "title": "Lucas y su computadora [1 DÍA]. [Producción MENOS MAL]",
+        "description": "Una licuadora repleta de energia onirica y un cardumen de vibraciones aleatorias rompieron las puertas dimensionales una vez mas.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vEiG0FK0H6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.vimeocdn.com/video/368410040_295x166.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vEiG0FK0H6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "capostodos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-06-07T04:34:33Z"
+      }
+    },
+    {
+      "kind": "vimeo",
+      "etag": "pjNeMmEUKEB4tB1tQ8oOKnV39uc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "53121083"
+      },
+      "snippet": {
+        "publishedAt": "2009-06-07T04:34:33Z",
+        "channelId": "UC5gBmCYnn8oaKAnbAfdPGCA",
+        "title": "Lucas y su computadora [2 NOCHE]. [Producción MENOS MAL]",
+        "description": "Una licuadora repleta de energia onirica y un cardumen de vibraciones aleatorias rompieron las puertas dimensionales una vez mas.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vEiG0FK0H6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.vimeocdn.com/video/366753834_295x166.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vEiG0FK0H6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "capostodos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-06-07T04:34:33Z"
+      }
+    },
+    {
+      "kind": "vimeo",
+      "etag": "pjNeMmEUKEB4tB1tQ8oOKnV39uc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "80150926"
+      },
+      "snippet": {
+        "publishedAt": "2009-06-07T04:34:33Z",
+        "channelId": "UC5gBmCYnn8oaKAnbAfdPGCA",
+        "title": "Lucas y su computadora La Silleta",
+        "description": "Una licuadora repleta de energia onirica y un cardumen de vibraciones aleatorias rompieron las puertas dimensionales una vez mas.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vEiG0FK0H6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.vimeocdn.com/video/456013500_295x166.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vEiG0FK0H6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "capostodos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-06-07T04:34:33Z"
+      }
+    }
+  ]
 }

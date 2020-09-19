@@ -30,13 +30,18 @@
   display:flex;
   flex-wrap: wrap;
   align-items: flex-end;
+  /* width:400px; */
   background-color:black;
 }
 .formating{
-  border:solid;
+  /* border:solid white; */
+  width: 100%;
 }
 .formating2{
-  width:100%;
+  width: 95vw ;
+  /* border: solid blue; */
+  height: 30vw;
+  /* height: auto; */
 }
 .titulo{
   /* font-size: smaller; */
@@ -52,6 +57,7 @@
 }
 .card{
  background-color: #050505;
+ /* width: 200px; */
 }
 .music{
   display:flex;

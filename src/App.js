@@ -16,7 +16,9 @@ function App() {
 
   const [songs, setSongs] = useState("");
   const [list, setList] = useState([]);
-  const [ids, setIds] = useState()
+  const [ids, setIds] = useState();
+  const [ctn, setCtn] =useState(0);
+  const[pause,setPause]= useState();
 
   return (
     <React.Fragment>
@@ -32,16 +34,27 @@ function App() {
             lis={(list) => setList(list)}
             src={(song) => setSongs(song)}
           />} />
-          <Route exact path="/draws" component={Draws} />
-          <Route path="/videos" component={Videos} />
+          <Route exact path="/draws" render={(props) => <Draws
+            {...props}
+            cnt={(cnt) => setCtn(cnt)}
+            count={ctn} />}
+          />
+          <Route path="/videos" render={(props) => <Videos {...props} 
+          pause={(pause) => setPause(pause)}/>}/> 
         </Route>
       </div>
       <div className="footer">
 
         <Footer id={ids}
           list={list}
-          songs={songs} />
+          songs={songs}
+          pause={pause} />
       </div>
+      <br />
+      <br />
+      <br />
+      <br />
+
 
 
     </React.Fragment>

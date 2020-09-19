@@ -19,7 +19,7 @@ function Music({ida,lis,src}) {
   const arr = data.filter(a => a.collection[0] === "opensource_audio").filter(a => a.identifier !== "randomcycle")
   return (<div>
 
-    <h2 style={{ paddingLeft: "20px" }}>MUSIC 音楽</h2>
+    <h2 >MUSIC 音楽</h2>
  
     <div className="music">
       {arr.map(a => <MusicElement
