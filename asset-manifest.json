@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/lysuc-web/static/css/main.58586893.chunk.css",
-    "main.js": "/lysuc-web/static/js/main.abfd3d46.chunk.js",
-    "main.js.map": "/lysuc-web/static/js/main.abfd3d46.chunk.js.map",
+    "main.css": "/lysuc-web/static/css/main.bcb66bd6.chunk.css",
+    "main.js": "/lysuc-web/static/js/main.2eb9b56d.chunk.js",
+    "main.js.map": "/lysuc-web/static/js/main.2eb9b56d.chunk.js.map",
     "runtime-main.js": "/lysuc-web/static/js/runtime-main.4f908888.js",
     "runtime-main.js.map": "/lysuc-web/static/js/runtime-main.4f908888.js.map",
     "static/css/2.9905d55a.chunk.css": "/lysuc-web/static/css/2.9905d55a.chunk.css",
     "static/js/2.bda6a279.chunk.js": "/lysuc-web/static/js/2.bda6a279.chunk.js",
     "static/js/2.bda6a279.chunk.js.map": "/lysuc-web/static/js/2.bda6a279.chunk.js.map",
     "index.html": "/lysuc-web/index.html",
-    "precache-manifest.e28efd88786f820165e151a8d3a2cb4e.js": "/lysuc-web/precache-manifest.e28efd88786f820165e151a8d3a2cb4e.js",
+    "precache-manifest.1f4093d2a013691b9b9a9391255e036d.js": "/lysuc-web/precache-manifest.1f4093d2a013691b9b9a9391255e036d.js",
     "service-worker.js": "/lysuc-web/service-worker.js",
     "static/css/2.9905d55a.chunk.css.map": "/lysuc-web/static/css/2.9905d55a.chunk.css.map",
-    "static/css/main.58586893.chunk.css.map": "/lysuc-web/static/css/main.58586893.chunk.css.map",
+    "static/css/main.bcb66bd6.chunk.css.map": "/lysuc-web/static/css/main.bcb66bd6.chunk.css.map",
     "static/js/2.bda6a279.chunk.js.LICENSE.txt": "/lysuc-web/static/js/2.bda6a279.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4f908888.js",
     "static/css/2.9905d55a.chunk.css",
     "static/js/2.bda6a279.chunk.js",
-    "static/css/main.58586893.chunk.css",
-    "static/js/main.abfd3d46.chunk.js"
+    "static/css/main.bcb66bd6.chunk.css",
+    "static/js/main.2eb9b56d.chunk.js"
   ]
 }
