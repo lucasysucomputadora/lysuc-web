@@ -8,7 +8,7 @@ function Music({ida,lis,src}) {
   useEffect(() => {
     async function fetchData() {
       const response = await fetch(
-        `https://archive.org/advancedsearch.php?q=creator%3A%22lucas+y+su+computadora%22&fl%5B%5D=collection&fl%5B%5D=identifier&sort%5B%5D=date+desc&sort%5B%5D=&sort%5B%5D=&rows=50&page=1&output=json`);
+        `https://archive.org/advancedsearch.php?q=creator%3A%22lucas+y+su+computadora%22&fl%5B%5D=collection&fl%5B%5D=identifier&sort%5B%5D=date+desc&sort%5B%5D=&sort%5B%5D=&rows=100&page=1&output=json`);
       const datas = await response.json();
       setData(datas.response.docs);
     }
@@ -17,6 +17,7 @@ function Music({ida,lis,src}) {
     , [])
 
   const arr = data.filter(a => a.collection[0] === "opensource_audio").filter(a => a.identifier !== "randomcycle")
+  
   return (<div>
 
     <h2 >MUSIC 音楽</h2>
