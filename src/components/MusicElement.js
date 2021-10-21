@@ -17,6 +17,7 @@ function MusicElement({ id, song, list, ids }) {
   }
     , [id])
   const arr = data.filter(a => a.name.endsWith(".flac"))
+  console.log(arr)
 
 
   return (
@@ -24,7 +25,7 @@ function MusicElement({ id, song, list, ids }) {
       <div onClick={() => ids(id)}>
         <div className="music__title"
           onClick={() => song(0)}>
-          <h3 >{id} - <span>{date}</span></h3>
+          <h3 >{id} <div style={{fontSize: "13px"}}>{date}</div></h3>
         </div>
         <div className="music__element">
           {arr.map(a => <p className="music__unit"

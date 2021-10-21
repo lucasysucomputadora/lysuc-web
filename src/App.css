@@ -62,6 +62,7 @@
 .music{
   display:flex;
   flex-wrap: wrap;
+  
 }
 audio{
   border:solid black 8px;
@@ -127,6 +128,7 @@ audio{
   font-family: 'Changa', sans-serif;
 
   background-color: white;
+  width: 320px;
 }
 .music__unit{
   /* border:solid; */

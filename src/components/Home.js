@@ -5,7 +5,7 @@ function Home() {
   <div>
    <h1>Hi</h1>
    <p>Welcome to my stuff, enjoy!</p>
-   <img width="100%" src="https://i.ytimg.com/vi/3WxhgZyO6Cc/maxresdefault.jpg" alt="arm"/>
+   <img style={{filter:"grayscale(100%)"}} width="90%" src="https://i.ytimg.com/vi/3WxhgZyO6Cc/maxresdefault.jpg" alt="arm"/>
   </div>
  )
 }
