@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 
-function MusicElement({ id, song, list, ids }) {
+function MusicElement({ id, song, list, ids, title }) {
 
   const [data, setData] = useState([]);
   const [date, setDate] = useState();
@@ -25,7 +25,7 @@ function MusicElement({ id, song, list, ids }) {
       <div onClick={() => ids(id)}>
         <div className="music__title"
           onClick={() => song(0)}>
-          <h3 >{id} <div style={{fontSize: "13px"}}>{date}</div></h3>
+          <h3 >{title} <div style={{fontSize: "13px"}}>{date}</div></h3>
         </div>
         <div className="music__element">
           {arr.map(a => <p className="music__unit"
