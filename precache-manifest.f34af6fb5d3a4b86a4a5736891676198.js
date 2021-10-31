@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62a9d6c3d18f621256afa6adee294341",
+    "revision": "e59056ab6504f4f5e3a50554bbd27aab",
     "url": "/lysuc-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lysuc-web/static/css/2.9905d55a.chunk.css"
   },
   {
-    "revision": "7c913ed22a6d7ca582f7",
+    "revision": "8a606b674a511dffc099",
     "url": "/lysuc-web/static/css/main.e63c1bf5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lysuc-web/static/js/2.9718e78d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c913ed22a6d7ca582f7",
-    "url": "/lysuc-web/static/js/main.97ae5b9f.chunk.js"
+    "revision": "8a606b674a511dffc099",
+    "url": "/lysuc-web/static/js/main.fd1c1a49.chunk.js"
   },
   {
     "revision": "86e69dec686bd82fe5e5",
