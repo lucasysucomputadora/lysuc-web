@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 
-function MusicElement({ id, song, list, ids, title }) {
+function MusicElement({ id, song, list, ids, title, llave }) {
 
   const [data, setData] = useState([]);
   const [date, setDate] = useState();
@@ -17,11 +17,12 @@ function MusicElement({ id, song, list, ids, title }) {
   }
     , [id])
   const arr = data.filter(a => a.name.endsWith(".flac"))
-  console.log(arr)
+  const mp3 = data.filter(a => a.name.endsWith(".mp3"))
+ 
 
 
   return (
-    <div onClick={() => list(arr)}>
+    <div onClick={() => list(llave === true ? arr: mp3)}>
       <div onClick={() => ids(id)}>
         <div className="music__title"
           onClick={() => song(0)}>

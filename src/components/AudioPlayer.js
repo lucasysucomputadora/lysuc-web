@@ -22,6 +22,8 @@ function AudioPlayer({ song, list, ids, pause }) {
 
   let arr = list.map(a => `https://archive.org/download/${ids}/${a.name}`)
   let arr2 = list.map(a => ids + "/" + a.name + " (download here)")
+
+  // console.log(arr.join(" "))
   return (
     <div>
       <div className="tit">
