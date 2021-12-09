@@ -84,11 +84,12 @@
   display:flex;
   flex-wrap: wrap;
   align-items: flex-end;
-  /* width:400px; */
+  /*width:100%;*/ 
   background-color:black;
 }
 .formating{
-  /* border:solid white; */
+  text-align:left;
+  /*border:solid white; */
   width: 100%;
 }
 .formating2{
@@ -100,19 +101,25 @@
 .titulo{
   /* font-size: smaller; */
   /* display:flex; */
-  text-align: center;
+  text-align: left;
   /* column-fill: auto; */
   width: 320px;
-  font-size: 10px;
+  font-size: 15px;
   font-family: 'Press Start 2P', cursive;
   color:#afafaf
   
   /* text-justify: auto; */
 }
 .card{
+ text-align: left;
  background-color: #050505;
- /* width: 200px; */
+ width: auto; 
 }
+.tv{
+ display:flex;
+ flex-wrap:wrap;
+ border:solid;
+ width:auto;}
 .music{
   display:flex;
   flex-wrap: wrap;

@@ -7,24 +7,37 @@ import "../App.css"
 
 
 function Videos({pause}) {
+  const [data, setData] = useState([]);
+  const [llave, setLlave] = useState(true);
 
-  const [vid, setVid] = useState()
+  useEffect(() => {
+    async function fetchData() {
+      const response = await fetch(
+        `https://archive.org/advancedsearch.php?q=creator%3A%22lucas+y+su+computadora%22&fl%5B%5D=collection&fl%5B%5D=identifier&fl%5B%5D=title&sort%5B%5D=date+desc&sort%5B%5D=&sort%5B%5D=&rows=200&page=1&output=json`);
+      const datas = await response.json();
+      setData(datas.response.docs);
+    }
+    fetchData();
+  }
+    , [])
+
+  const arr = data.filter(a => a.collection[0] === "opensource_movies")
+
+
 
 
   return (
     <div >
 
-      <h2>VIDEO ビデオ</h2>
+      <h2>VIDEOs ビデオ</h2>
 
 
       <div className="videos">
-        {data.items.map((a) => {
+        {arr.map((a) => {
           return <VideoElement
-            key={a.id.videoId}
-            id={a.id.videoId}
-            title={a.snippet.title}
-            img={a.snippet.thumbnails.medium.url}
-            kind={a.kind}
+            key={a.identifier}
+            id={a.identifier}
+            title={a.title}
             pause={(pse) => pause(pse)} />
         })}
       </div>
